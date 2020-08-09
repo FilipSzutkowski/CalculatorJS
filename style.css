@@ -16,3 +16,7 @@
     grid-auto-rows: 30px;
     gap: 2px;
 }
+
+.is-depressed {
+    border-color: red;
+}
